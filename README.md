@@ -27,7 +27,7 @@ I'm working at a small starup in VietNam . I love to code, listen to music and r
 # My Github stats
 ![TuanLQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=randauto&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randauto&layout=compact&theme=gotham)](https://github.com/randauto/github-readme-stats)
-
+# My Google Play Store
 <a href="https://play.google.com/store/apps/dev?id=7407652935821304424"><img src="https://play-lh.googleusercontent.com/To9-obPGnX_oTFTfxypU9STtABvaqQ_954APHNW6fyL4vnaeTaJiWeJwIb1_-ZtHjglD=s52-rw" width = 400px /></a>
 
 
@@ -35,7 +35,7 @@ I'm working at a small starup in VietNam . I love to code, listen to music and r
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-tu%E1%BA%A5n-tuan-82338078/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEE5N8bESZJ6w/profile-displayphoto-shrink_200_200/0/1516647021447?e=1659571200&v=beta&t=5thU-cpFFM0JccN1Fd4oNiu0df97zK4W_W8LNRn75jo"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-tu%E1%BA%A5n-tuan-82338078/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/Tuan98764170"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
@@ -44,7 +44,6 @@ I'm working at a small starup in VietNam . I love to code, listen to music and r
 
 ------
 
-Credit: [randauto](https://github.com/randauto)
+Credit: [TuanLQ](https://github.com/randauto)
 
 Last Edited on: 05/31/2022
-1
