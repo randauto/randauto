@@ -28,7 +28,7 @@ I'm working at a small starup in VietNam . I love to code, listen to music and r
 ![TuanLQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=randauto&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randauto&layout=compact&theme=gotham)](https://github.com/randauto/github-readme-stats)
 # My Google Play Store
-<a href="https://play.google.com/store/apps/dev?id=7407652935821304424"><img src="https://play-lh.googleusercontent.com/To9-obPGnX_oTFTfxypU9STtABvaqQ_954APHNW6fyL4vnaeTaJiWeJwIb1_-ZtHjglD=s52-rw" width = 400px /></a>
+<a href="https://play.google.com/store/apps/dev?id=7407652935821304424"><img src="https://play-lh.googleusercontent.com/6N4bM71Hofb2fgpkupWOM_cpl2zZ3udJKFfurWX4eyQoXtztsfP1B8HLTXfg4zNKaQUJ=w3840-h2160-rw"></a>
 
 
 
