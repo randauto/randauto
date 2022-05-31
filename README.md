@@ -5,7 +5,7 @@
 - A Learner 🐍
 
 # About me
-I'm working at a small starup at VietNam . I love to code, listen to music and reading books.
+I'm working at a small starup in VietNam . I love to code, listen to music and reading books.
 
 # Technologies used
 
