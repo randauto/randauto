@@ -17,7 +17,7 @@ I'm working at a small starup in VietNam . I love to code, listen to music and r
 <code><a target="_blank" href="https://www.jetbrains.com/idea/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><a target="_blank" href="https://www.android.com/"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></a></code>
 <code><a target="_blank" href="https://flutter.dev/"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><a target="_blank" href="https://github.com/matplotlib/matplotlib"><img height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"></a></code>
+<code><a target="_blank" href="https://matplotlib.org/"><img height="40" width="40" src= "https://matplotlib.org/_static/images/logo2.svg"></a></code>
 
 
 # My Github stats
