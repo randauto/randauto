@@ -4,7 +4,7 @@
 - Member of G3 Studio ☕☕☕
 
 # About me
-I'm working at a small starup in VietNam . I love to code, listen to music and reading books. When I have free time, I usually play with my children.
+I'm working at a small startup in VietNam. I love to code, listen to music, and read books. When I have free time, I usually play with my children.
 
 # Technologies used
 
