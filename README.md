@@ -1,7 +1,6 @@
 # Hello :wave:, I am TuanLQ 😃 
 - A Senior Android Developer 📱
 - A Reader 📗 A Learner 🐍
-- Member of G3 Studio ☕☕☕
 
 # About me
 I'm working at a small startup in VietNam. I love to code, listen to music, and read books. When I have free time, I usually play with my children.
