@@ -3,7 +3,7 @@
 - A Reader 📗 A Learner 🐍
 
 # About me
-I'm working at a small startup in VietNam. I love to code, listen to music, and read books. When I have free time, I usually play with my children.
+I love to code, listen to music, and read books. When I have free time, I usually play with my children.
 
 # Technologies used
 
